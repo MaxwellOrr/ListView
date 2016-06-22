@@ -68,6 +68,7 @@
                 <asp:Button ID="Button1" CssClass="btn btn-default" runat="server" Text="Create" OnClick="Button1_Click" />
                 </div>
             </div>
+            </div>
 
         </div>
 
@@ -122,7 +123,7 @@
         
         <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:DNNAssingmentConnectionString %>" SelectCommand="SELECT * FROM [Accounts]"></asp:SqlDataSource>
     
-    </div>
+    
     </form>
 </body>
 </html>
