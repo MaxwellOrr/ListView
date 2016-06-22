@@ -1,0 +1,20 @@
+﻿body {
+}
+table{
+    width : 80%;
+    margin : auto;
+}
+
+label{
+    width : 15%;
+}
+.Create{
+        float: none;
+    width: 50%;
+    padding-left: 80%;
+}
+.Search{
+        float: left;
+    width: 50%;
+    padding-left: 10%;
+}
